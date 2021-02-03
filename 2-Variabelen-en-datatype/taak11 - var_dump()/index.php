@@ -4,10 +4,10 @@ $naam              = "Osama AL Hamoud"; //Data type [1] String
 $nummer            = 5;                 //Data type [2] Integer
 $decimale_getallen = 5.55;              //Data type [3] Floating Point Number
 $var4              = true;              //Data type [4] Bloolean / مشان الترو ول فالاص 
-$var_5             = array(
-    "A" => "V",
-    "B" => 50,
-    "C" => 50.65,
+$var_5             = array(             //Je kan ook meerdere waardes in een variabele opslaan اكثر من متغير تقدر تحطو بي اريه وحده يختصر عليك عناء كثير
+    "<li>A</li<" => "V",
+    "<li>B</li<" => 50,
+    "<li>C</li<" => 50.65,
 );
 
 echo "<h2> Get Type </h2>";
