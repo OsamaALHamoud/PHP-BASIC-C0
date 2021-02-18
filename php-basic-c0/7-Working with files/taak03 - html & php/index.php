@@ -1,10 +1,3 @@
-<?php
-
-include "index2.php";
-
-?>
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -14,10 +7,12 @@ include "index2.php";
     <title>Document</title>
 </head>
 <body>
- 
-
-
-
+    
+<div>
+<?php require 'noFileExists.php';
+echo "I have a $color $car.";
+?>
+</div>
 
 </body>
 </html>
