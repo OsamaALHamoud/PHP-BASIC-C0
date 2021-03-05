@@ -5,10 +5,10 @@
 
 
 /* 
- * Opdracht 1: voeg hier het bestand allcoins.php in. 
+ * Opdracht 1: voeg hier het bestand bitcoinData.php in. 
  * Verder hoef je geen code te schrijven op deze pagina.
  */
-
+require "bitcoinData.php";
 
 
 /*******************************************************************************************************************/

@@ -1,5 +1,5 @@
 <?php
-include "bitconinData.php";
+// include "bitconinData.php";
 
 /*******************************************************************************************************************/
 /**************************** De code hieronder heb je nodig en hoef je niet aan te passen *************************/
